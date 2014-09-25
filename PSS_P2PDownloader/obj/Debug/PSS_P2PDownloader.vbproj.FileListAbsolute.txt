@@ -1,0 +1,39 @@
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_P2PDownloader.vbproj.GenerateResource.Cache
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\bin\Debug\EPPlus.xml
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\bin\Debug\PSS Variants DB.exe
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\bin\Debug\PSS Variants DB.pdb
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\bin\Debug\PSS Variants DB.xml
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Custom_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Direct_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogDirect_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogImpLA_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogImpNA_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogIndNAPD_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogTMS_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_SS_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_STR_NewRow.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Custom_SubVariants.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Direct_SubVariants.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogDirect_SubVariants.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Custom.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_Direct.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogDirect.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogImpLA.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogImpNa.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogIndNAPD.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_LogTMS.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_SS.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_SS_SubVariants.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Americas_STR.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.AboutBox.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Main.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.SplashScreen.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Resources.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Data_Downloader.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS Variants DB.exe
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS Variants DB.xml
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS Variants DB.pdb
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.EPO_Notification.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Data_DownloaderBIDB.resources
+C:\Users\bullio.m\Work\Mis Proyectos\PSS_P2PDownloader\PSS_P2PDownloader\obj\Debug\PSS_Variants_DB.Massive_OwnerChange.resources
